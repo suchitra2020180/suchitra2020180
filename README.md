@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @suchitra2020180
+- 👋 Hi, I’m @suchitra
 - 👀 I’m interested in Datascience, ML Projects, Remote sensing, Image processing, Databases
 - 🌱 I’m currently learning Webapplication development
 - 💞️ I’m looking to collaborate on ...
