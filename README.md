@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suchitra
-- 👀 I’m interested in Datascience, ML Projects, Remote sensing, Image processing, Databases
+- 👀 I’m interested in Datascience, ML Projects, WebGIS Applications,Remote sensing, Image processing, Databases
 - 🌱 I’m currently learning Webapplication development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me suchitraraniojha@gmail.com
